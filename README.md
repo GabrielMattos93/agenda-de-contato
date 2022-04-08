@@ -1,8 +1,3 @@
-<details>
-<summary>Projeto Agenda de Contato</summary>
-<br>
-<br><br>
-<pre>
 # Agenda de Contato PHP
 
 Projeto - Agenda de Contato PHP
@@ -26,6 +21,7 @@ PDO <br>
 
 Font awesome<br>
 Bootstrap 5<br>
+
 
 <details>
 <summary>Introdução</summary>
