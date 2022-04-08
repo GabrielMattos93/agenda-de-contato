@@ -34,11 +34,8 @@
                               <input type="hidden" name="type" value="delete">
                               <input type="hidden" name="id" value="<?php echo $contact["id"] ?>">
                           <button type="submit" class="delete-btn"><i class="fas fa-times delete-icon"></i></button>
-                          </form>
-                         
-                        
-                        
-                      </td>
+                  </form>
+                </td>
                   </tr>
                   <?php endforeach; ?>
               </tbody>
